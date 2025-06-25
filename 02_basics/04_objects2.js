@@ -8,7 +8,7 @@ const {courseInstructor: instructor} = course     // destructuring
 
 console.log(instructor);        // hitesh
 
-// const navbar = ({company}) => {         // destructure in react
+// const navbar = ({company}) => {        // destructure in react n 
 
 // }
 // navbar(company = "ZS")
