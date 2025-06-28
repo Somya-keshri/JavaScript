@@ -5,6 +5,8 @@ coding.forEach( function (item){
     console.log(item);             // js ruby...
 } )
 
+//ARROW FUNC SYNTAX:  () => {}
+
 coding.forEach((val) => {
     console.log(val);          // js ruby...
 })
