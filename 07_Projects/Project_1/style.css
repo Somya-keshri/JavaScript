@@ -1,0 +1,35 @@
+*{
+    background-color: burlywood;
+}
+html {
+    margin: 0;
+}
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+span {
+    display: block;
+}
+.button {
+    height: 70px;
+    width: 70px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.button:hover {
+    border: 3px solid black;
+}
+#grey{
+    background-color: slategray;
+}
+#green{
+    background-color: darkolivegreen;
+}
+#pink{
+    background-color: mediumvioletred;
+}
+#blue{
+    background-color:midnightblue;
+}
