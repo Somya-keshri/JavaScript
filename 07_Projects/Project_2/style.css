@@ -1,0 +1,20 @@
+html {
+    margin: 0;
+}
+.content{
+    display: flex;
+    align-items: center;
+}
+.container {
+    margin: 100px auto 100px;
+    padding: 20px;
+    width: 40%;
+    text-align: center;
+    border: 1px solid black;
+}
+.calculate {
+    margin: 7px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
